@@ -38,8 +38,6 @@ Video5: Branch and Merge
 
 https://www.acfun.cn/v/ac12946212
 
-The same set of video could also be found on bilibili.com.
-
 ### Exercise
 
 1. Create account on Github/Gitlab.
