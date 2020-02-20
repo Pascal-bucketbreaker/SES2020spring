@@ -37,6 +37,7 @@ https://www.acfun.cn/v/ac12945801
 Video5: Branch and Merge
 
 https://www.acfun.cn/v/ac12946212
+https://www.bilibili.com/video/av89430774
 
 ### Exercise
 
